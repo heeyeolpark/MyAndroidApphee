@@ -9,11 +9,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:text="Hello 1234577THUG LIFE!"
-=======
-        android:text="Hello 박희열 똥구멍 개 넓음"
->>>>>>> ba689f01c8344c908d4406c5cb9afe033b23772d
+
+        android:text="Hello 1234577THUG LIFE! Hello 박희열 똥구멍 개 넓음"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
